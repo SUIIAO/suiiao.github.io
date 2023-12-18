@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I'm currently pursuing my Ph.D. in the [Department of Statistics](https://statistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), under the guidance of Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before landing at UC Davis, I earned my B.S. in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2019.
+I'm currently pursuing my Ph.D. in the [Department of Statistics](https://statistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), under the guidance of Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my B.S. in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2019.
 
 ## Research Interests
 
@@ -22,18 +22,18 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 ## Honors and Awards
 - <ins>**Scholar Award**</ins>, NeurIPS, Oct. 2023
-- **Peter Hall Graduate Student Research Award** for overall excellence in statistical research during the doctoral degree, Department of Statistics, UC Davis, Jun. 2023
-- **Student Paper Award Finalist in Nonparametric Section**, American Statistical Association, Jan. 2023
+- <ins>**Peter Hall Graduate Student Research Award**</ins> for overall excellence in statistical research during the doctoral degree, Department of Statistics, UC Davis, Jun. 2023
+- <ins>**Student Paper Award Finalist in Nonparametric Section**</ins>, American Statistical Association, Jan. 2023
 
 ## Publications and Preprints
 
-- **Zhou, Y.** and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[ArXiv](https://arxiv.org/pdf/2308.12540.pdf)]
-- **Zhou, Y.** and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[ArXiv](https://arxiv.org/pdf/2306.10221.pdf)]
-- Iao, S.I., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., **Zhou, Y.**, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://cran.r-project.org/web/packages/fdaconcur/index.html). R package version 0.1.2.
-- **Zhou, Y.**, Müller, H.G., Zhu, C., Chen, Y., Wang, J.L., O’Muircheartaigh, J., Bruchhage, M., Deoni, S. and RESONANCE Consortium Braun (2023) [Network evolution of regional brain volumes in young children reflects neurocognitive scores and mother’s education](https://www.nature.com/articles/s41598-023-29797-1). Scientific Reports 13(1), 2984.
-- **Zhou, Y.** and Müller, H.G. (2022) [Network Regression with Graph Laplacians](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf). Journal of Machine Learning Research 23(1), 14383-14423.
-- **Zhou, Y.**, Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2022) [fdapace: Functional Data Analysis and Empirical Dynamics](https://cran.r-project.org/web/packages/fdapace/index.html). R package version 0.5.9.
-- Dubey, P., Chen, Y., Gajardo, Á., Bhattacharjee, S., Carroll, C., **Zhou, Y.**, Chen, H. and Müller, H.G. (2022) [Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21007563). Journal of Mathematical Analysis and Applications, 514(2), 125677.
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[ArXiv](https://arxiv.org/pdf/2308.12540.pdf)]
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[ArXiv](https://arxiv.org/pdf/2306.10221.pdf)]
+- Iao, S.I., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://cran.r-project.org/web/packages/fdaconcur/index.html). R package version 0.1.2.
+- <ins>**Zhou, Y.**</ins>, Müller, H.G., Zhu, C., Chen, Y., Wang, J.L., O’Muircheartaigh, J., Bruchhage, M., Deoni, S. and RESONANCE Consortium Braun (2023) [Network evolution of regional brain volumes in young children reflects neurocognitive scores and mother’s education](https://www.nature.com/articles/s41598-023-29797-1). Scientific Reports 13(1), 2984.
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2022) [Network Regression with Graph Laplacians](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf). Journal of Machine Learning Research 23(1), 14383-14423.
+- <ins>**Zhou, Y.**</ins>, Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2022) [fdapace: Functional Data Analysis and Empirical Dynamics](https://cran.r-project.org/web/packages/fdapace/index.html). R package version 0.5.9.
+- Dubey, P., Chen, Y., Gajardo, Á., Bhattacharjee, S., Carroll, C., <ins>**Zhou, Y.**</ins>, Chen, H. and Müller, H.G. (2022) [Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21007563). Journal of Mathematical Analysis and Applications, 514(2), 125677.
 
 ## Services
 
