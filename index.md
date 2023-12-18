@@ -35,6 +35,10 @@ My academic focus lies in the advancement of statistical methodology and theoret
 - <ins>**Zhou, Y.**</ins>, Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2022) [fdapace: Functional Data Analysis and Empirical Dynamics](https://cran.r-project.org/web/packages/fdapace/index.html). R package version 0.5.9.
 - Dubey, P., Chen, Y., Gajardo, Á., Bhattacharjee, S., Carroll, C., <ins>**Zhou, Y.**</ins>, Chen, H. and Müller, H.G. (2022) [Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21007563). Journal of Mathematical Analysis and Applications, 514(2), 125677.
 
+## Teaching
+
+- Summer 2023: [STA 100A - Applied Statistics for Biological Sciences](https://github.com/yidongzhou/STA-100-Applied-Statistics-for-Biological-Sciences)
+
 ## Services
 
 - Journal Reviewers: Journal of the American Statistical Association
