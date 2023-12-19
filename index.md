@@ -10,7 +10,7 @@ I'm currently pursuing my Ph.D. in the [Department of Statistics](https://statis
 
 My academic focus lies in the advancement of statistical methodology and theoretical frameworks applicable to non-Euclidean data.
 
-- **Random Objects:** Networks, distributions, and compositional data, with applications in brain imaging studies, multi-cohort studies, and traffic network analysis.
+- **Random Objects:** Networks, distributions, and compositional data, with applications in traffic network analysis, multi-cohort studies, and brain imaging studies.
 - **Functional Data Analysis:** Sparse functional data, particularly functional snippets, with applications in accelerated longitudinal studies.
 
 ## News
@@ -37,7 +37,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 ## Teaching
 
-- Summer 2023: [STA 100A - Applied Statistics for Biological Sciences](https://github.com/yidongzhou/STA-100-Applied-Statistics-for-Biological-Sciences)
+- Summer 2023: [STA 100A - Applied Statistics for Biological Sciences](https://statistics.ucdavis.edu/expanded-descriptions/100). [[GitHub](https://github.com/yidongzhou/STA-100-Applied-Statistics-for-Biological-Sciences)]
 
 ## Services
 
