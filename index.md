@@ -41,7 +41,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 ## Services
 
-- Journal Reviewers: Journal of the American Statistical Association
+- Journal Reviewers: Journal of the American Statistical Association, Biometrics
 
 <!---
 {% include_relative _includes/publications.md %}
