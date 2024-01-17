@@ -29,10 +29,13 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[ArXiv](https://arxiv.org/pdf/2308.12540.pdf)]
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[ArXiv](https://arxiv.org/pdf/2306.10221.pdf)]
-- Iao, S.I., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://cran.r-project.org/web/packages/fdaconcur/index.html). R package version 0.1.2.
+- Chen, Y., <ins>**Zhou, Y.**</ins>, Chen, H., Gajardo, Á., Fan, J., Zhong, Q., Dubey, P., Han, K., Bhattacharjee, S., Zhu,
+C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects
+and Non-Euclidean Data](https://cran.r-project.org/web/packages/frechet). R package version 0.3.0.
+- Iao, S.I., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://cran.r-project.org/web/packages/fdaconcur). R package version 0.1.2.
 - <ins>**Zhou, Y.**</ins>, Müller, H.G., Zhu, C., Chen, Y., Wang, J.L., O’Muircheartaigh, J., Bruchhage, M., Deoni, S. and RESONANCE Consortium Braun (2023) [Network evolution of regional brain volumes in young children reflects neurocognitive scores and mother’s education](https://www.nature.com/articles/s41598-023-29797-1). Scientific Reports 13(1), 2984.
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2022) [Network Regression with Graph Laplacians](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf). Journal of Machine Learning Research 23(1), 14383-14423.
-- <ins>**Zhou, Y.**</ins>, Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2022) [fdapace: Functional Data Analysis and Empirical Dynamics](https://cran.r-project.org/web/packages/fdapace/index.html). R package version 0.5.9.
+- <ins>**Zhou, Y.**</ins>, Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2022) [fdapace: Functional Data Analysis and Empirical Dynamics](https://cran.r-project.org/web/packages/fdapace). R package version 0.5.9.
 - Dubey, P., Chen, Y., Gajardo, Á., Bhattacharjee, S., Carroll, C., <ins>**Zhou, Y.**</ins>, Chen, H. and Müller, H.G. (2022) [Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21007563). Journal of Mathematical Analysis and Applications, 514(2), 125677.
 
 ## Teaching
