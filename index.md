@@ -15,6 +15,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 ## News
 
+- **[Apr. 2024]** Received the [2024 IMS ​Hannan Graduate Student Travel Award](https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award/)
 - **[Dec. 2023]** Will present our paper [Network Regression with Graph Laplacian](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf) at the [Journal-to-Conference Track](https://nips.cc/virtual/2023/events/journal_track_2023) during [NeurIPS 2023](https://nips.cc/Conferences/2023). [[Video](https://nips.cc/virtual/2023/poster/73917)] [[Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202023/73917.png?t=1702574693.7212543)]
 - **[Oct. 2023]** Received a Scholar Award from [NeurIPS 2023](https://nips.cc/Conferences/2023). Thanks, NeurIPS for the travel support!
 - **[Aug. 2023]** Will present our paper [Network Regression with Graph Laplacian](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf) at the Nonparametric Statistics Section Student Paper Award Session during [JSM 2023](https://ww2.amstat.org/meetings/jsm/2023/)
