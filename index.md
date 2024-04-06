@@ -12,6 +12,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 - **Metric-space-valued data:** Networks, covariance matrices, distributions, and compositional data, with applications in biological and social sciences, multi-cohort studies, and brain imaging studies.
 - **Functional/longitudinal data:** Sparse functional data, particularly functional snippets, with applications in accelerated longitudinal studies.
+
 <!---
 ## News
 
@@ -21,6 +22,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 - **[Aug. 2023]** Will present our paper [Network Regression with Graph Laplacian](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf) at the Nonparametric Statistics Section Student Paper Award Session during [JSM 2023](https://ww2.amstat.org/meetings/jsm/2023/)
 - **[May 2021]** Passed the Ph.D. qualifying examination!
 --->
+
 ## Awards and Honors
 - <ins>**[IMS Hannan Graduate Student Travel Award](https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award/)**</ins>, Apr. 2024
 - <ins>**Scholar Award**</ins>, NeurIPS, Oct. 2023
