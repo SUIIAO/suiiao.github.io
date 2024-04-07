@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a postdoctoral researcher in the [Department of Statistics](https://statistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), working with Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Previously, I obtained my Ph.D. in Statistics from the [University of California, Davis](https://www.ucdavis.edu/) in March 2024, under the guidance of Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my B.S. in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2019.
+I am currently a postdoctoral scholar in the [Department of Statistics](https://statistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), working with Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Previously, I obtained my Ph.D. in Statistics from the [University of California, Davis](https://www.ucdavis.edu/) in March 2024, under the guidance of Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my B.S. in Statistics from the [University of Science and Technology of China](https://en.ustc.edu.cn/) in 2019.
 
 ## Research Interests
 
