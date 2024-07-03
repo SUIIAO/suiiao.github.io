@@ -52,7 +52,7 @@ C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statis
   - CMStatistics, Online, Dec. 2022 (invited)
   - Joint Statistical Meeting, Toronto, Canada, Aug. 2023 (student paper award)
   - NeurIPS, New Orleans, LA, Dec. 2023 (scholar award)
-  - Conference on Statistical Methods for High-Dimensional Complex Data, College  Station, TX, May 2024 (Young Investigator Presentation)
+  - Conference on Statistical Methods for High-Dimensional Complex Data, College  Station, TX, May 2024 (young investigator presentation)
 - Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations
   - Statistics in the Age of AI Conference, Washington, DC, May 2024
 
