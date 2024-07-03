@@ -31,6 +31,9 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 ## Publications and Preprints
 
+<div style="font-size: 10px;">*: contributed equally </div>
+
+- Kurisu, D.\*, <ins>**Zhou, Y.**</ins>\*, Otsu, T., Müller, H.G. (2024+) Geodesic Causal Inference. [[ArXiv](https://arxiv.org/pdf/2406.19604)]
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[ArXiv](https://arxiv.org/pdf/2308.12540.pdf)]
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[ArXiv](https://arxiv.org/pdf/2306.10221.pdf)]
 - <ins>**Zhou, Y.**</ins>, Müller, H.G., Zhu, C., Chen, Y., Wang, J.L., O’Muircheartaigh, J., Bruchhage, M., Deoni, S. and RESONANCE Consortium Braun (2023) [Network evolution of regional brain volumes in young children reflects neurocognitive scores and mother’s education](https://www.nature.com/articles/s41598-023-29797-1). Scientific Reports 13(1), 2984.
@@ -40,23 +43,27 @@ My academic focus lies in the advancement of statistical methodology and theoret
 ## Software
 
 - Chen, Y., <ins>**Zhou, Y.**</ins>, Chen, H., Gajardo, Á., Fan, J., Zhong, Q., Dubey, P., Han, K., Bhattacharjee, S., Zhu,
-C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://cran.r-project.org/web/packages/frechet). R package version 0.3.0.
-- Iao, S.I., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://cran.r-project.org/web/packages/fdaconcur). R package version 0.1.2.
-- <ins>**Zhou, Y.**</ins>, Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2022) [fdapace: Functional Data Analysis and Empirical Dynamics](https://cran.r-project.org/web/packages/fdapace). R package version 0.5.9.
+C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
+- Iao, S., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://CRAN.R-project.org/package=fdaconcur). R package version 0.1.2.
+- <ins>**Zhou, Y.**</ins>, Chen, H., Iao, S., Kundu, P., Zhou, H., Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2024) [fdapace: Functional Data Analysis and Empirical Dynamics](https://CRAN.R-project.org/package=fdapace). R package version 0.6.0.
 
 ## Presentations
 - Network regression with graph Laplacians
   - CMStatistics, Online, Dec. 2022 (invited)
   - Joint Statistical Meeting, Toronto, Canada, Aug. 2023 (student paper award)
-  - NeurIPS, New Orleans, USA, Dec. 2023 (scholar award)
+  - NeurIPS, New Orleans, LA, Dec. 2023 (scholar award)
+  - Conference on Statistical Methods for High-Dimensional Complex Data, College  Station, TX, May 2024 (Young Investigator Presentation)
+- Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations
+  - Statistics in the Age of AI Conference, Washington, DC, May 2024
 
 ## Teaching
 
 - Summer 2023: [STA 100A - Applied Statistics for Biological Sciences](https://statistics.ucdavis.edu/expanded-descriptions/100). [[GitHub](https://github.com/yidongzhou/STA-100-Applied-Statistics-for-Biological-Sciences)]
 
 ## Service
-
-- Journal Reviewers: Journal of the American Statistical Association, Biometrics
+- Reviewer:
+  - Journal: Journal of the Royal Statistical Society Series B, Journal of the American Statistical Association, Biometrics
+  - Conference: NeurIPS
 
 <!---
 {% include_relative _includes/publications.md %}
