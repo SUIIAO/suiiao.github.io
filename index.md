@@ -42,19 +42,24 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 ## Software
 
+- <ins>**Zhou, Y.**</ins>, Chen, H., Iao, S., Kundu, P., Zhou, H., Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2024) [fdapace: Functional Data Analysis and Empirical Dynamics](https://CRAN.R-project.org/package=fdapace). R package version 0.6.0.
+- Iao, S., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://CRAN.R-project.org/package=fdaconcur). R package version 0.1.2.
 - Chen, Y., <ins>**Zhou, Y.**</ins>, Chen, H., Gajardo, Á., Fan, J., Zhong, Q., Dubey, P., Han, K., Bhattacharjee, S., Zhu,
 C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
-- Iao, S., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., <ins>**Zhou, Y.**</ins>, Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://CRAN.R-project.org/package=fdaconcur). R package version 0.1.2.
-- <ins>**Zhou, Y.**</ins>, Chen, H., Iao, S., Kundu, P., Zhou, H., Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C. (2024) [fdapace: Functional Data Analysis and Empirical Dynamics](https://CRAN.R-project.org/package=fdapace). R package version 0.6.0.
 
 ## Presentations
-- Network regression with graph Laplacians
+- Network Regression with Graph Laplacians
   - CMStatistics, Online, Dec. 2022 (invited)
   - Joint Statistical Meeting, Toronto, Canada, Aug. 2023 (student paper award)
   - NeurIPS, New Orleans, LA, Dec. 2023 (scholar award)
   - Conference on Statistical Methods for High-Dimensional Complex Data, College  Station, TX, May 2024 (young investigator presentation)
-- Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations
+- Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets with Stochastic Differential Equations
   - Statistics in the Age of AI Conference, Washington, DC, May 2024
+-  Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data
+  - Joint Statistical Meeting, Portland, OR, Aug. 2024
+- Deep Fr{\'e}chet Regression
+  - CMStatistics, Online, Dec. 2024 (invited)
+
 
 ## Teaching
 
