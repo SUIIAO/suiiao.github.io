@@ -55,9 +55,9 @@ C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statis
   - Conference on Statistical Methods for High-Dimensional Complex Data, College  Station, TX, May 2024 (young investigator presentation)
 - Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets with Stochastic Differential Equations
   - Statistics in the Age of AI Conference, Washington, DC, May 2024
--  Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data
+- Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data
   - Joint Statistical Meeting, Portland, OR, Aug. 2024
-- Deep Fr{\'e}chet Regression
+- Deep Fréchet Regression
   - CMStatistics, Online, Dec. 2024 (invited)
 
 
