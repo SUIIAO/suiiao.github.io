@@ -62,8 +62,8 @@ C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statis
 
 ## Service
 - Reviewer:
-  - Journal: Journal of the Royal Statistical Society Series B, Journal of the American Statistical Association, Biometrics
-  - Conference: NeurIPS
+  - Journal: Journal of the Royal Statistical Society Series B: Statistical Methodology, Journal of the American Statistical Association, Biometrics
+  - Conference: NeurIPS 2024
 
 <!---
 {% include_relative _includes/publications.md %}
