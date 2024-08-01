@@ -33,9 +33,10 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 <div style="font-size: 10px;">*: contributed equally </div>
 
-- Kurisu, D.\*, <ins>**Zhou, Y.**</ins>\*, Otsu, T and Müller, H.G. (2024+) Geodesic Causal Inference. [[ArXiv](https://arxiv.org/pdf/2406.19604)]
-- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[ArXiv](https://arxiv.org/pdf/2308.12540.pdf)]
-- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[ArXiv](https://arxiv.org/pdf/2306.10221.pdf)]
+- Kurisu, D.\*, <ins>**Zhou, Y.**</ins>\*, Otsu, T and Müller, H.G. (2024+) Geodesic Causal Inference. [[arXiv](https://arxiv.org/pdf/2406.19604)]
+- Iao, S.\*, <ins>**Zhou, Y.**</ins>\* and Müller, H.G. (2024+) Deep Fréchet Regression. [[arXiv](http://arxiv.org/abs/2407.21407)]
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[arXiv](https://arxiv.org/pdf/2308.12540.pdf)]
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[arXiv](https://arxiv.org/pdf/2306.10221.pdf)]
 - <ins>**Zhou, Y.**</ins>, Müller, H.G., Zhu, C., Chen, Y., Wang, J.L., O’Muircheartaigh, J., Bruchhage, M., Deoni, S. and RESONANCE Consortium (2023) [Network evolution of regional brain volumes in young children reflects neurocognitive scores and mother’s education](https://www.nature.com/articles/s41598-023-29797-1). Scientific Reports 13(1), 2984.
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2022) [Network Regression with Graph Laplacians](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf). Journal of Machine Learning Research 23(1), 14383-14423.
 - Dubey, P., Chen, Y.\*, Gajardo, Á.\*, Bhattacharjee, S.\*, Carroll, C.\*, <ins>**Zhou, Y.**</ins>\*, Chen, H.\* and Müller, H.G. (2022) [Learning delay dynamics for multivariate stochastic processes, with application to the prediction of the growth rate of COVID-19 cases in the United States](https://www.sciencedirect.com/science/article/abs/pii/S0022247X21007563). Journal of Mathematical Analysis and Applications, 514(2), 125677.
