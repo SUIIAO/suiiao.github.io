@@ -33,6 +33,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 <div style="font-size: 10px;">*: contributed equally </div>
 
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein-Kaplan-Meier Survival Regression](https://doi.org/10.1080/10618600.2024.2404708). Journal of Computational and Graphical Statistics, Forthcoming.
 - Kurisu, D.\*, <ins>**Zhou, Y.**</ins>\*, Otsu, T and Müller, H.G. (2024+) Geodesic Causal Inference. [[arXiv](https://arxiv.org/pdf/2406.19604)]
 - Iao, S.\*, <ins>**Zhou, Y.**</ins>\* and Müller, H.G. (2024+) Deep Fréchet Regression. [[arXiv](http://arxiv.org/abs/2407.21407)]
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[arXiv](https://arxiv.org/pdf/2308.12540.pdf)]
@@ -59,6 +60,8 @@ C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statis
 - Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data
   - Joint Statistical Meeting, Portland, OR, Aug. 2024
 - Deep Fréchet Regression
+  - Conference on Statistical Learning and Data Science, Newport Beach, CA, Nov. 2024
+  - Columbia Biostatistics FDAWG, Online, Dec. 2024
   - CMStatistics, Online, Dec. 2024 (invited)
 
 
@@ -68,8 +71,8 @@ C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statis
 
 ## Service
 - Reviewer:
-  - Journal: Journal of the Royal Statistical Society Series B: Statistical Methodology, Journal of the American Statistical Association, Biometrics
-  - Conference: NeurIPS 2024
+  - Journal: Journal of the Royal Statistical Society Series B: Statistical Methodology, Journal of the American Statistical Association, Biometrics, Bernoulli
+  - Conference: NeurIPS 2024, ICLR 2025, AISTATS 2025
 
 <!---
 {% include_relative _includes/publications.md %}
