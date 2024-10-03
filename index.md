@@ -33,10 +33,10 @@ My academic focus lies in the advancement of statistical methodology and theoret
 
 <div style="font-size: 10px;">*: contributed equally </div>
 
-- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein-Kaplan-Meier Survival Regression](https://doi.org/10.1080/10618600.2024.2404708). Journal of Computational and Graphical Statistics, Forthcoming.
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein-Kaplan-Meier Survival Regression](./assets/files/wkm.pdf). Journal of Computational and Graphical Statistics, Just accepted.
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data](https://arxiv.org/pdf/2308.12540). Biometrics, Just accepted.
 - Kurisu, D.\*, <ins>**Zhou, Y.**</ins>\*, Otsu, T and Müller, H.G. (2024+) Geodesic Causal Inference. [[arXiv](https://arxiv.org/pdf/2406.19604)]
 - Iao, S.\*, <ins>**Zhou, Y.**</ins>\* and Müller, H.G. (2024+) Deep Fréchet Regression. [[arXiv](http://arxiv.org/abs/2407.21407)]
-- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data. [[arXiv](https://arxiv.org/pdf/2308.12540.pdf)]
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[arXiv](https://arxiv.org/pdf/2306.10221.pdf)]
 - <ins>**Zhou, Y.**</ins>, Müller, H.G., Zhu, C., Chen, Y., Wang, J.L., O’Muircheartaigh, J., Bruchhage, M., Deoni, S. and RESONANCE Consortium (2023) [Network evolution of regional brain volumes in young children reflects neurocognitive scores and mother’s education](https://www.nature.com/articles/s41598-023-29797-1). Scientific Reports 13(1), 2984.
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2022) [Network Regression with Graph Laplacians](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf). Journal of Machine Learning Research 23(1), 14383-14423.
@@ -60,8 +60,8 @@ C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statis
 - Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data
   - Joint Statistical Meeting, Portland, OR, Aug. 2024
 - Deep Fréchet Regression
-  - Conference on Statistical Learning and Data Science, Newport Beach, CA, Nov. 2024
-  - Columbia Biostatistics FDAWG, Online, Dec. 2024
+  - Conference on Statistical Learning and Data Science, Newport Beach, CA, Nov. 2024 (invited)
+  - Columbia Biostatistics FDAWG, Online, Dec. 2024 (invited)
   - CMStatistics, Online, Dec. 2024 (invited)
 
 

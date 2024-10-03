@@ -2,14 +2,12 @@
 
 [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/minimal-light/blob/main/LICENSE)
 
-\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md) | [繁體中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hant.md) | [Deutsche](https://github.com/yaoyao-liu/minimal-light/blob/master/README_de.md)\]
+\[[Demo the theme](https://minimal-light-theme.yliu.me/)\]  \[[简体中文](https://github.com/yaoyao-liu/minimal-light/blob/master/README_zh_Hans.md)\]
  
 *This is the source code of my homepage. I build this website based on [minimal](https://github.com/orderedlist/minimal).*
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
-The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/yaoyao-liu.github.io)]
-<br>
 A template for Max Planck Institute for Informatics is available here: [[link](https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf)]
 
 ## Features
@@ -66,17 +64,6 @@ There are two ways to use this template on GitHub:
 - Fork this repository (or [use this repository as a template](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)) and change the name to `your-username.github.io`.
 
 - Enable the GitHub pages for that repository following the steps [here](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site#creating-your-site).
-
-#### Using this repository as a remote theme
-To use this theme, add the following to your repository's `_config.yml`:
-
-```yaml
-remote_theme: yaoyao-liu/minimal-light
-```
-
-Please note that adding the above line will directly apply all the default settings in this repository to yours.
-
-If you hope to edit any files (e.g., `index.md`), you still need to copy them to your repository.
 
 ### Using Locally with Jekyll
 
