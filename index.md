@@ -34,7 +34,7 @@ My academic focus lies in the advancement of statistical methodology and theoret
 <div style="font-size: 10px;">*: contributed equally </div>
 
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein-Kaplan-Meier Survival Regression](./assets/files/wkm.pdf). Journal of Computational and Graphical Statistics, in press.
-- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data](https://arxiv.org/pdf/2308.12540). Biometrics, in press.
+- <ins>**Zhou, Y.**</ins> and Müller, H.G. (2024) [Wasserstein Regression with Empirical Measures and Density Estimation for Sparse Data](./assets/files/rem.pdf). Biometrics, in press.
 - Kurisu, D.\*, <ins>**Zhou, Y.**</ins>\*, Otsu, T and Müller, H.G. (2024+) Geodesic Causal Inference. [[arXiv](https://arxiv.org/pdf/2406.19604)]
 - Iao, S.\*, <ins>**Zhou, Y.**</ins>\* and Müller, H.G. (2024+) Deep Fréchet Regression. [[arXiv](http://arxiv.org/abs/2407.21407)]
 - <ins>**Zhou, Y.**</ins> and Müller, H.G. (2023+) Dynamic Modeling of Sparse Longitudinal Data and Functional Snippets With Stochastic Differential Equations. [[arXiv](https://arxiv.org/pdf/2306.10221.pdf)]
