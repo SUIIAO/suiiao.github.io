@@ -50,6 +50,11 @@ My academic focus lies in the advancement of statistical methodology and theoret
 C., Iao, S.I., Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
 
 ## Presentations
+- GATES Neuromodeling Workshop
+  - Vail, Colorado, Oct. 2022
+  - Vail, Colorado, Sep. 2023
+  - Dubai, UAE, Apr. 2024
+  - Palma, Spain, Oct. 2024
 - Network Regression with Graph Laplacians
   - CMStatistics, Online, Dec. 2022 (invited)
   - Joint Statistical Meeting, Toronto, Canada, Aug. 2023 (student paper award)
