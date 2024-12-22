@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing a PhD student in the [Graduate Group in Biostatistics](https://biostatistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my M.S. in Applied Statistics from the [University of Michigan, Ann Arbor](https://umich.edu/) in 2020 and my B.S. in Mathematics and Applied Mathematics from the [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2018.
+I am currently pursuing a PhD in the [Graduate Group in Biostatistics](https://biostatistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my M.S. in Applied Statistics from the [University of Michigan, Ann Arbor](https://umich.edu/) in 2020 and my B.S. in Mathematics and Applied Mathematics from the [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2018.
 
 ## Research Interests
 
