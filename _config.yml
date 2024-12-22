@@ -1,23 +1,21 @@
 # Basic Information 
-title: Yidong Zhou
-position: Postdoctoral Scholar
+title: Su I Iao
+position: PhD
 affiliation: Department of Statistics, University of California, Davis
 affiliation_link: https://statistics.ucdavis.edu/
 affiliation_logo: ./assets/img/ucdavis.png
-email: ydzhou (at) ucdavis.edu
+email: siao (at) ucdavis.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Yidong Zhou, 周易东, Yidong, Zhou, University of California at Davis, UC Davis, statistics, University of Science and Technology of China, USTC, nonparametric statistics, functional data analysis, random objects
-description: Personal homepage of Yidong Zhou.
-canonical: https://yidongzhou.github.io
+keywords: Su I Iao, 邱舒怡, Su I, Iao, University of California at Davis, UC Davis, statistics, University of Michigan, Ann Arbor, Umich, Sun Yat-sen University, SYSU, nonparametric statistics, functional data analysis, random objects
+description: Personal homepage of Su I Iao.
+canonical: https://suiiao.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=MjugrtIAAAAJ&hl=en
 #cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/yidongzhou
-linkedin: https://www.linkedin.com/in/aweydzhou/
+linkedin: www.linkedin.com/in/suiiao
 #twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
