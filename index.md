@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student in the [Graduate Group in Biostatistics](https://biostatistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), working with Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my B.S. in Mathematics and Applied Mathematics from the [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2018 and my M.S. in Applied Statistics from the [University of Michigan, Ann Arbor](https://umich.edu/) in 2020.
+I am currently pursuing a PhD student in the [Graduate Group in Biostatistics](https://biostatistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my M.S. in Applied Statistics from the [University of Michigan, Ann Arbor](https://umich.edu/) in 2020 and my B.S. in Mathematics and Applied Mathematics from the [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2018.
 
 ## Research Interests
 
-My academic focus lies in the advancement of statistical methodology and theoretical frameworks applicable to non-Euclidean data.
+My research focuses on developing statistical methodologies and theoretical frameworks for analyzing non-Euclidean data. In particular, I am interested in:
 
-- **Metric-space-valued data:** Networks, covariance matrices, distributions, and compositional data, with applications in biological and social sciences, and brain imaging studies.
+- **Metric-space-valued data:** Networks, covariance matrices, distributions, and compositional data, with applications in biological and social sciences.
 - **Functional/longitudinal data:** Dense and sparse functional data.
 
 <!---
