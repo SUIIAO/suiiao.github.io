@@ -25,7 +25,9 @@ My research focuses on developing statistical methodologies and theoretical fram
 
 ## Publications and Preprints
 
+<!---
 <div style="font-size: 10px;">*: contributed equally </div>
+--->
 
 - <ins>**Iao, S.I.**</ins>, Zhou, Y. and Müller, H.G. (2024+) Deep Fréchet Regression. [[arXiv](http://arxiv.org/abs/2407.21407)]
 - <ins>**Iao, S.I.**</ins>, Kundu, P., Chen, H., Carey, J.R. and Müller, H.G. (2024) [Longitudinal activity monitoring and lifespan: quantifying the interface](https://pmc.ncbi.nlm.nih.gov/articles/PMC11424592/). Aging (Albany NY) 16(17), 12108.
