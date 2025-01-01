@@ -49,7 +49,7 @@ C., Iao, <ins>**S.I.**</ins>, Kundu, P., Petersen, A. and Müller, H.G. (2023) [
   - Joint Statistical Meeting, Portland, OR, Aug. 2024
 
 
-## TA
+## Teaching Assistant
 
 - [STA 13 - Elementary Statistics]
 - [STA 100 - Applied Statistics for Biological Sciences]
