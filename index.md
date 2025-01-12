@@ -42,6 +42,9 @@ My research focuses on developing statistical methodologies and theoretical fram
 - Chen, Y., Zhou, Y., Chen, H., Gajardo, Á., Fan, J., Zhong, Q., Dubey, P., Han, K., Bhattacharjee, S., Zhu,
 C., <ins>**Iao, S.I.**</ins>, Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
 
+## Intern
+- Biostatistician at [Genentech](https://gene.com/), South San Francisco, CA, June 2024 - Sept 2024
+
 
 ## Presentations
 - Deep Fréchet Regression
