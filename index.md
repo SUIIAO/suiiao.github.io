@@ -36,11 +36,11 @@ My research focuses on developing statistical methodologies and theoretical fram
 
 ## Software
 
-- <ins>**Iao**</ins>, S., Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., Zhou, Y., Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://CRAN.R-project.org/package=fdaconcur). R package version 0.1.3.
-- Zhou, Y., Chen, H., <ins>**Iao, S.**</ins>, Kundu, P., Zhou, H., Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C., Müller, H.G. and Wang, J.L. (2024) [fdapace: Functional Data Analysis and Empirical Dynamics](https://CRAN.R-project.org/package=fdapace). R package version 0.6.0.
-- Kundu, P., Zhu, C., Chen, K., Delicado, P., <ins>**S.I.**</ins>, Zhou H., Chen, H., Cui, M. and Müller, H.G. (2024) [fdarep: Two-Dimensional FPCA, Marginal FPCA, and Product FPCA for Repeated Functional Data](https://cran.r-project.org/web/packages/fdarep/index.html). R package version 0.1.1.
+- <ins>**Iao, S.I.**</ins>, Bhattacharjee, S., Chen, Y., Zhu, C., Chen, H., Zhou, Y., Gajardo, Á., Kundu, P., Zhou, H. and Müller, H.G. (2023) [fdaconcur: Concurrent Regression and History Index Models for Functional Data](https://CRAN.R-project.org/package=fdaconcur). R package version 0.1.3.
+- Zhou, Y., Chen, H., <ins>**Iao, S.I.**</ins>, Kundu, P., Zhou, H., Bhattacharjee, S., Carroll, C., Chen, Y., Dai, X., Fan, J., Gajardo, A., Hadjipantelis, P.Z., Han, K., Ji, H. and Zhu, C., Müller, H.G. and Wang, J.L. (2024) [fdapace: Functional Data Analysis and Empirical Dynamics](https://CRAN.R-project.org/package=fdapace). R package version 0.6.0.
+- Kundu, P., Zhu, C., Chen, K., Delicado, P., <ins>**Iao S.I.**</ins>, Zhou H., Chen, H., Cui, M. and Müller, H.G. (2024) [fdarep: Two-Dimensional FPCA, Marginal FPCA, and Product FPCA for Repeated Functional Data](https://cran.r-project.org/web/packages/fdarep/index.html). R package version 0.1.1.
 - Chen, Y., Zhou, Y., Chen, H., Gajardo, Á., Fan, J., Zhong, Q., Dubey, P., Han, K., Bhattacharjee, S., Zhu,
-C., Iao, <ins>**S.I.**</ins>, Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
+C., <ins>**Iao, S.I.**</ins>, Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
 
 
 ## Presentations
