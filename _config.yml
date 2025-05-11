@@ -8,7 +8,7 @@ email: siao (at) ucdavis.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: Su I Iao, 邱舒怡, Su I, Iao, University of California at Davis, UC Davis, statistics, University of Michigan, Ann Arbor, Umich, Sun Yat-sen University, SYSU, nonparametric statistics, functional data analysis, random objects
+keywords: Su I Iao, 邱舒怡, Su I, Iao, University of California at Davis, UC Davis, statistics, University of Michigan, Ann Arbor, Umich, Sun Yat-sen University, SYSU, nonparametric statistics, functional data analysis, random objects, deep frechet regression
 description: Personal homepage of Su I Iao.
 canonical: https://suiiao.github.io
 
@@ -16,6 +16,7 @@ canonical: https://suiiao.github.io
 # If you don't need one of them, you may delete the corresponding line.
 #cv_link: assets/files/curriculum_vitae.pdf
 linkedin: https://www.linkedin.com/in/suiiao
+github: https://github.com/SUIIAO
 #twitter: https://twitter.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
