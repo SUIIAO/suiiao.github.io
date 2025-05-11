@@ -29,7 +29,7 @@ My research focuses on developing statistical methodologies and theoretical fram
 <div style="font-size: 10px;">*: contributed equally </div>
 --->
 
-- <ins>**Iao, S.I.**</ins>, Zhou, Y. and Müller, H.G. (2024+) Deep Fréchet Regression. Journal of the American Statistical Association (just accepted).  [[arXiv](http://arxiv.org/abs/2407.21407)]
+- <ins>**Iao, S.I.**</ins>, Zhou, Y. and Müller, H.G. (2025+) Deep Fréchet Regression. Journal of the American Statistical Association (just accepted).  [[arXiv](http://arxiv.org/abs/2407.21407)]
 - <ins>**Iao, S.I.**</ins>, Kundu, P., Chen, H., Carey, J.R. and Müller, H.G. (2024) [Longitudinal activity monitoring and lifespan: quantifying the interface](https://pmc.ncbi.nlm.nih.gov/articles/PMC11424592/). Aging (Albany NY) 16(17), 12108.
 - <ins>**Iao, S.I.**</ins>, Jansen, E., Shedden, K., O’Brien, L.M. and Chervin, R.D., Knutson, K.L. and Dunietz, G.L. (2021) [Associations between bedtime eating or drinking, sleep duration and wake after sleep onset: findings from the American time use survey](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/associations-between-bedtime-eating-or-drinking-sleep-duration-and-wake-after-sleep-onset-findings-from-the-american-time-use-survey/72A5D22C25A35FA975A5B50991431E0C). British Journal of Nutrition 127(12), 1888--1897.
 
