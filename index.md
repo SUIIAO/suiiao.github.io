@@ -13,9 +13,12 @@ My research focuses on developing statistical methodologies and theoretical fram
 - **Metric-space-valued data:** Networks, covariance matrices, distributions, and compositional data, with applications in biological and social sciences.
 - **Functional/longitudinal data:** Dense and sparse functional data.
 
-<!---
 ## News
 
+- **[April 2025]** Passed the Ph.D. Defense!
+
+
+<!---
 - **[Apr. 2024]** Received the [2024 IMS ​Hannan Graduate Student Travel Award](https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award/)
 - **[Dec. 2023]** Will present our paper [Network Regression with Graph Laplacian](https://www.jmlr.org/papers/volume23/22-0681/22-0681.pdf) at the [Journal-to-Conference Track](https://nips.cc/virtual/2023/events/journal_track_2023) during [NeurIPS 2023](https://nips.cc/Conferences/2023). [[Video](https://nips.cc/virtual/2023/poster/73917)] [[Poster](https://nips.cc/media/PosterPDFs/NeurIPS%202023/73917.png?t=1702574693.7212543)]
 - **[Oct. 2023]** Received a Scholar Award from [NeurIPS 2023](https://nips.cc/Conferences/2023). Thanks, NeurIPS for the travel support!
