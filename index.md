@@ -4,7 +4,14 @@ layout: homepage
 
 ## About Me
 
-I am currently pursuing a PhD in the [Graduate Group in Biostatistics](https://biostatistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/). Before coming to UC Davis, I earned my M.S. in Applied Statistics from the [University of Michigan, Ann Arbor](https://umich.edu/) in 2020 and my B.S. in Mathematics and Applied Mathematics from the [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2018.
+I am a Data Scientist on the Launch Eval DS team at Waymo in Mountain View, CA, where I report to [Maria Terres](https://www.linkedin.com/in/maria-terres/). I graduated with a Ph.D. in the [Graduate Group in Biostatistics](https://biostatistics.ucdavis.edu/) at the [University of California, Davis](https://www.ucdavis.edu/), advised by Professor [Hans-Georg Müller](https://anson.ucdavis.edu/~mueller/) in 2025. Prior to my doctoral studies, I earned my M.S. in Applied Statistics from the [University of Michigan, Ann Arbor](https://umich.edu/) in 2020 and my B.S. in Mathematics and Applied Mathematics from the [Sun Yat-sen University](https://www.sysu.edu.cn/) in 2018.
+
+## Work Experience
+
+* **Data Scientist** July 2025 – Present
+    * Waymo, Mountain View, CA
+* **Data Scientist (intern)** June 2024 – Sept 2024
+    * Genentech, South San Francisco, CA
 
 ## Research Interests
 
@@ -13,10 +20,11 @@ My research focuses on developing statistical methodologies and theoretical fram
 - **Metric-space-valued data:** Networks, covariance matrices, distributions, and compositional data, with applications in biological and social sciences.
 - **Functional/longitudinal data:** Dense and sparse functional data.
 
+<!---
 ## News
 
 - **[April 2025]** Passed the Ph.D. Defense!
-
+--->
 
 <!---
 - **[Apr. 2024]** Received the [2024 IMS ​Hannan Graduate Student Travel Award](https://imstat.org/ims-awards/ims-hannan-graduate-student-travel-award/)
@@ -32,7 +40,7 @@ My research focuses on developing statistical methodologies and theoretical fram
 <div style="font-size: 10px;">*: contributed equally </div>
 --->
 
-- <ins>**Iao, S.I.**</ins>, Zhou, Y. and Müller, H.G. (2025+) Deep Fréchet Regression. Journal of the American Statistical Association (just accepted).  [[arXiv](http://arxiv.org/abs/2407.21407)]
+- <ins>**Iao, S.I.**</ins>, Zhou, Y. and Müller, H.G. (2025+) [Deep Fréchet Regression](https://doi.org/10.1080/01621459.2025.2507982). Journal of the American Statistical Association (just accepted).
 - <ins>**Iao, S.I.**</ins>, Kundu, P., Chen, H., Carey, J.R. and Müller, H.G. (2024) [Longitudinal activity monitoring and lifespan: quantifying the interface](https://pmc.ncbi.nlm.nih.gov/articles/PMC11424592/). Aging (Albany NY) 16(17), 12108.
 - <ins>**Iao, S.I.**</ins>, Jansen, E., Shedden, K., O’Brien, L.M. and Chervin, R.D., Knutson, K.L. and Dunietz, G.L. (2021) [Associations between bedtime eating or drinking, sleep duration and wake after sleep onset: findings from the American time use survey](https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/associations-between-bedtime-eating-or-drinking-sleep-duration-and-wake-after-sleep-onset-findings-from-the-american-time-use-survey/72A5D22C25A35FA975A5B50991431E0C). British Journal of Nutrition 127(12), 1888--1897.
 
@@ -45,15 +53,22 @@ My research focuses on developing statistical methodologies and theoretical fram
 - Chen, Y., Zhou, Y., Chen, H., Gajardo, Á., Fan, J., Zhong, Q., Dubey, P., Han, K., Bhattacharjee, S., Zhu,
 C., <ins>**Iao, S.I.**</ins>, Kundu, P., Petersen, A. and Müller, H.G. (2023) [frechet: Statistical Analysis for Random Objects and Non-Euclidean Data](https://CRAN.R-project.org/package=frechet). R package version 0.3.0.
 
+<!---
 ## Internship
 - Biostatistician at [Genentech](https://gene.com/), South San Francisco, CA, June 2024 - Sept 2024
+--->
 
+## Awards
+
+* 2025 Student Paper Award Finalist in Nonparametric Section, American Statistical Association.
+* 2025 Best Presentation in Nonparametric Section, American Statistical Association.
+* Poster Award - 2024 Statistics in the Age of AI, Washington, D.C.
 
 ## Presentations
 - Deep Fréchet Regression
   - Statistics in the Age of AI Conference, Washington, DC, May 2024
   - Joint Statistical Meeting, Portland, OR, Aug. 2024
-
+  - Joint Statistical Meeting, Nashville, TN, Aug. 2025
 
 ## Teaching Assistant
 
