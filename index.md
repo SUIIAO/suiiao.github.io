@@ -63,9 +63,11 @@ C., <ins>**Iao, S.I.**</ins>, Kundu, P., Petersen, A. and Müller, H.G. (2023) [
 
 ## Awards
 
-* 2025 Student Paper Award Finalist in Nonparametric Section, American Statistical Association.
-* 2025 Best Presentation in Nonparametric Section, American Statistical Association.
-* Poster Award - 2024 Statistics in the Age of AI, Washington, D.C.
+* Journal of the American Statistical Association Theory & Methods Discussion Paper | 2026
+  * Deep Fréchet Regression selected as the discussion paper for the JASA Invited Session at the 2026 Joint Statistical Meetings
+* Student Paper Award Finalist, ASA Nonparametric Statistics Section | 2025
+* Best Presentation Award, ASA Nonparametric Statistics Section | 2025
+* Poster Award, Statistics in the Age of AI Conference (Washington, D.C.) | 2024
 
 ## Presentations
 - Deep Fréchet Regression
